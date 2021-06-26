@@ -136,7 +136,7 @@ $ mkdir thanks_martyst
 $ cd thanks_martyst
 $ git clone https://github.com/martyst/ELK-Stack-Project.git
 # Copy contents of /Ansible to `/etc/ansible` on the Ansible Control Node.
-$ cp -r ELK-Stack_Project/Ansible/* /etc/ansible
+$ cp -r ELK-Stack-Project/Ansible/* /etc/ansible
 ```
 
 That will move all playbook, configuration, and hosts files to the appropriate directories.
